@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MakeUp_Dyplom")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9eeb5016dcef401fd1fd93d4644a05479fc37c3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MakeUp_Dyplom")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MakeUp_Dyplom")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
